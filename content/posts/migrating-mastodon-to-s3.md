@@ -1,7 +1,7 @@
 ---
 title: "Migrating Mastodon to S3"
 date: 2023-01-11T23:29:01-05:00
-draft: true
+draft: false
 ---
 ## Forewarning
 I made some mistakes, and those mistakes cost me fair bit of time. This is *not* a guide! This is my experiences migrating from local file storage to a cloud provider, and the issues and solution I came across along the way. At the end of the post, I have linked a few guides relating to this topic, refer to those for your how-to guides. With that out of the way, let us begin.
