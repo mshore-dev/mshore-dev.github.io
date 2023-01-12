@@ -1,4 +1,0 @@
-baseURL = 'https://mshore-dev.github.io/'
-languageCode = 'en-us'
-title = "Mike's Blog"
-theme = 'ananke'

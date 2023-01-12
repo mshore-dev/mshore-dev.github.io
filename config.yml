@@ -1,0 +1,23 @@
+baseURL: "https://mshore-dev.github.io/"
+title: "Michael's Blog"
+theme: "PaperMod"
+
+params:
+  env: "production"
+  title: "Michael's Blog"
+
+  profileMode:
+    enabled: true
+    title: "Michael Shore"
+    subtitle: "Aspiring sysadmin & FLCC student"
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/mshore-dev"
+    - name: mastodon
+      url: "https://nonbiri.social/@doc"
