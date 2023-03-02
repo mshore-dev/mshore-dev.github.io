@@ -4,20 +4,14 @@ theme: "PaperMod"
 
 params:
   env: "production"
-  title: "Michael's Blog"
-
-  profileMode:
-    enabled: true
-    title: "Michael Shore"
-    subtitle: "Aspiring sysadmin & FLCC student"
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+  homeInfoParams:
+    Title: "Michael Shore"
+    Content: "Aspiring sysadmin, studying Networking and Cybersecurity at Finger Lakes Community College."
 
   socialIcons:
     - name: github
       url: "https://github.com/mshore-dev"
-    - name: mastodon
-      url: "https://nonbiri.social/@doc"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/michael-shore-7489a11b7/"
+    - name: email
+      url: "mailto:iam@mshore.dev"
