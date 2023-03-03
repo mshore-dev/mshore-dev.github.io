@@ -1,7 +1,7 @@
 ---
 title: "Backups, eh?"
 date: 2023-03-02
-tags: ["self-hosting", "mastodon", "nextcloud"]
+tags: ["self-hosting", "backups"]
 ---
 ## The importance of backups
 Backups are important. No matter what kind of data you are storing, chances are you will want to have it backed up somewhere. Some data is inconvenient to lose, and some data is devastating to lose. If you have data of any real importance, it should be properly backed up. Hardware can last a long time, but one failure can leave you in quite a predicament.
