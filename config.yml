@@ -6,7 +6,7 @@ params:
   env: "production"
   homeInfoParams:
     Title: "Michael Shore"
-    Content: "Aspiring sysadmin, studying Networking and Cybersecurity at Finger Lakes Community College."
+    Content: "Recent graduate from Finger Lakes Community College with an Associate's in Networking and Cybersecurity. Aspiring sysadmin and web dev."
 
   socialIcons:
     - name: github
